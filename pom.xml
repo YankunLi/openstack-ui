@@ -63,7 +63,7 @@
 					</execution>
 				</executions>
 			</plugin>
-			<!-- <plugin> <groupId>net.sf.alchim</groupId> 李艳坤 今天吃了吗？<artifactId>winstone-maven-plugin</artifactId> 
+			<!-- <plugin> <groupId>net.sf.alchim</groupId> 李艳坤 今天吃了<artifactId>winstone-maven-plugin</artifactId> 
 				<version>1.2</version> <executions> <execution> <goals> <goal>embed</goal> 
 				</goals> <phase>package</phase> </execution> </executions> </plugin> -->
 			<plugin>
